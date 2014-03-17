@@ -1,3 +1,5 @@
+# THIS FORK HAS BEEN REVERTED TO AN OLDER VERSION OF THE PROJECT AND WILL NOT BE UPDATED.
+
 # Feedzirra [![Build Status](https://secure.travis-ci.org/pauldix/feedzirra.png)](http://travis-ci.org/pauldix/feedzirra)
 
 I'd like feedback on the api and any bugs encountered on feeds in the wild. I've set up a [google group here](http://groups.google.com/group/feedzirra).
